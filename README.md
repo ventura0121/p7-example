@@ -1,2 +1,4 @@
-# Phsics
-Embarassingly awfull README with missspellings. Fix these for ultimate victory.
+# Intro to Engineering
+## Automated Attendance Tracking
+
+A Python program designed to help teachers streamline attendance.
